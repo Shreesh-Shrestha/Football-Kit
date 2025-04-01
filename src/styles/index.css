@@ -1,0 +1,7 @@
+/* The default style for the body of pages. */
+body {
+  background-image: url("../assets/images/Backdrops/Football Pitch Corner View.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
